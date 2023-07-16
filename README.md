@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akhan78690
+- 👋 Hi, I’m @Alikhan
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning languages
 - 💞️ I’m looking to collaborate on multiple diffrentblockchain platforms
